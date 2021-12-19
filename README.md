@@ -4,17 +4,6 @@
   <img src="https://s2.loli.net/2021/12/19/s8Fu6W57IeYUrjy.gif">
 </p>
 
-<p align="bilibili">
-  <a href="https://standardjs.com"><img alt="JavaScript Style Guide" src="https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square"></a>
-  <a href=""><img alt="license" src="https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square"></a>
-  <a href="https://hexo.io"><img alt="hexo-image" src="https://img.shields.io/badge/hexo-%3E%3D3.0-blue.svg?style=flat-square"></a>
-  <a href="https://github.com/Molunerfinn/hexo-theme-melody/releases/latest">
-    <img src="https://img.shields.io/github/release/Molunerfinn/hexo-theme-melody.svg?style=flat-square" alt="">
-  </a>
-  <a href="https://github.com/PicGo/bump-version">
-    <img src="https://img.shields.io/badge/picgo-convention-blue.svg?style=flat-square" alt="">
-  </a>
-</p>
 
 ### 协议
 
