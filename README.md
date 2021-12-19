@@ -6,7 +6,18 @@
 ## Xiaonuo
 
 欢迎来到xiaonuo的小站，您可以在这里下载一些系统镜像及其工具。当您使用本站或下载所发布的资源时，即自动视为您已阅读、已理解、认可并同意遵守全部[协议内容](http://xiaonuo2.github.io/#协议)。
-
+<h3 id="游戏">游戏</h3>
+<ul>
+<li><a href="game/0">0hh1</a></li>
+<li><a href="game/1">2048</a></li>
+<li><a href="game/2">黑白棋</a></li>
+<li><a href="game/3">见缝插针</a></li>
+<li><a href="game/4">魔方</a></li>
+<li><a href="game/5">切积木</a></li>
+<li><a href="game/6">旋转六边形</a></li>
+<li><a href="game/7">一个都不能死</a></li>
+<li><a href="game/8">五子棋</a></li>
+<li><a href="https://liferestart.syaro.io/view/">人生重开模拟器</a></li>
 ### 协议
 
 免责声明：
