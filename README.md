@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://s2.loli.net/2021/12/19/s8Fu6W57IeYUrjy.gif">
 </p>
+## Xiaonuo
+
+欢迎来到xiaonuo的小站，您可以在这里下载一些系统镜像及其工具。当您使用本站或下载所发布的资源时，即自动视为您已阅读、已理解、认可并同意遵守全部[协议内容](http://xiaonuo2.github.io/#协议)。
 
 ### 协议
 
