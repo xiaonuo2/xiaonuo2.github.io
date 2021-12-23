@@ -33,10 +33,7 @@
 
 ### 实用工具
 
-- [迅雷绿色版](https://moecloud.cn/s/oKMdIk)(手机版[点我下载](https://moecloud.cn/s/91KZc9))
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
-- [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://moecloud.cn/s/lpoNtO))
-- [万能驱动](https://www.itsk.com/redirect.php?id=ed)
 - [一键圣诞帽工具1.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat1.0)  [一键圣诞帽工具2.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat2.0)
 - [图片定位远程查岗](https://xiaonuo2.github.io/exif-viewer)
 
