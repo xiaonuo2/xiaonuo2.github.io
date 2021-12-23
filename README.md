@@ -37,7 +37,7 @@
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
 - [优启通](https://www.itsk.com/redirect.php?id=eu)(ISO格式[点我下载](https://moecloud.cn/s/lpoNtO))
 - [万能驱动](https://www.itsk.com/redirect.php?id=ed)
-- [一键圣诞帽工具](https://xiaonuo2.github.io/Christmas-hat)
+- [一键圣诞帽工具1.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat1.0)  [一键圣诞帽工具2.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat2.0)  [一键圣诞帽工具3.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat3.0)
 
 
 ### 游戏
@@ -45,7 +45,6 @@
 - [0hh1](game/0)   [2048](game/1)  [黑白棋](game/2)  [见缝插针](game/3)  [魔方](game/4)  [切积木](game/5)  [旋转六边形](game/6)  [一个都不能死](game/7)  [五子棋 ](game/8) [人生重开模拟器](https://liferestart.syaro.io/view/)
 
 <span id="协议内容">免责声明：  
-=======
 
 1. 本站资源均来源于网络，所发布的资源仅作为学习、研究、交流目的之用途。使用、转载、转发请务必注明出处来源，禁止用于商业或收费盈利用途！  
 2. 对系统进行任何写操作行为均具有一定的风险，可能会造成系统或设备的损坏！资源发布前已完成测试，但由于设备种类繁多，操作方式不统一等仍无法保证绝对的兼容与安全性，因此作者不承担因阅读或使用本公众号所发布的文章教程或资源而造成的一切直接或间接的后果以及任何经济损失！请审慎考虑，如有异议，请勿参照文章教程操作或下载使用！  
@@ -53,4 +52,4 @@
 
 ### 友情链接
 
-[Wang's blog](https://iwsoft.cn) [老王二级域名分发](https://139.9.153.102) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
+[Webpage](http://webpage.iwsoft.cn/) [Wang's blog](https://iwsoft.cn) [老王二级域名分发](https://139.9.153.102) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
