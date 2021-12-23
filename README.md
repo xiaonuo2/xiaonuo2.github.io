@@ -52,36 +52,13 @@
 - [五子棋](game/8)
 - [人生重开模拟器](https://liferestart.syaro.io/view/)
 
-
-### 友情链接
-
-[Wang's blog](https://iwsoft.cn) [老王二级域名分发](https://139.9.153.102) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
-
 <span id="协议内容">免责声明：  
 =======
+
 1. 本站资源均来源于网络，所发布的资源仅作为学习、研究、交流目的之用途。使用、转载、转发请务必注明出处来源，禁止用于商业或收费盈利用途！  
 2. 对系统进行任何写操作行为均具有一定的风险，可能会造成系统或设备的损坏！资源发布前已完成测试，但由于设备种类繁多，操作方式不统一等仍无法保证绝对的兼容与安全性，因此作者不承担因阅读或使用本公众号所发布的文章教程或资源而造成的一切直接或间接的后果以及任何经济损失！请审慎考虑，如有异议，请勿参照文章教程操作或下载使用！  
 3. 最终解释权归本站站长所有，并且保留随时变更协议内容而无需另行通知的权利。本协议自发布之日起即时生效，请以本网站最新发布的协议公告内容为准。
 
-<h3 id="游戏">游戏</h3>
-<ul>
-<li><a href="game/0">0hh1</a></li>
-<li><a href="game/1">2048</a></li>
-<li><a href="game/2">黑白棋</a></li>
-<li><a href="game/3">见缝插针</a></li>
-<li><a href="game/4">魔方</a></li>
-<li><a href="game/5">切积木</a></li>
-<li><a href="game/6">旋转六边形</a></li>
-<li><a href="game/7">一个都不能死</a></li>
-<li><a href="game/8">五子棋</a></li>
-<li><a href="https://liferestart.syaro.io/view/">人生重开模拟器</a></li>
-<script> 
-var $buoop = {required:{e:-4,f:-3,o:-3,s:-1,c:-3},insecure:true,api:2021.11 }; 
-function $buo_f(){ 
- var e = document.createElement("script"); 
- e.src = "//browser-update.org/update.min.js"; 
- document.body.appendChild(e);
-};
-try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
-catch(e){window.attachEvent("onload", $buo_f)}
-</script>
+### 友情链接
+
+[Wang's blog](https://iwsoft.cn) [老王二级域名分发](https://139.9.153.102) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
