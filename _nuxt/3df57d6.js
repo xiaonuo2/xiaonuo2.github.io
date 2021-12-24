@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{1639:function(t,e,n){"use strict";n.r(e);n(49),n(362);var c={name:"qbl1.0"},r=n(2),component=Object(r.a)(c,(function(){var t=this.$createElement;return(this._self._c||t)("meta",{attrs:{"http-equiv":"refresh",content:"0; URL=https://www.privacys.club/camera/sc.php"}})}),[],!1,null,null,null);e.default=component.exports}}]);
