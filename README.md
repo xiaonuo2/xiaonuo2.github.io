@@ -1,1 +1,1 @@
-> [https://miku.tools](https://xiaonuo2.github.io)
+> http://xiaonuo2.github.io
