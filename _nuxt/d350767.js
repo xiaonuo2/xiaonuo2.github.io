@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{1633:function(e,t,n){"use strict";n.r(t);n(49),n(362);var r={name:"messagebomb"},c=n(2),component=Object(c.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("meta",{attrs:{"http-equiv":"refresh",content:"0; URL=https://www.privacys.club/message"}})}),[],!1,null,null,null);t.default=component.exports}}]);
