@@ -1,4 +1,4 @@
-## Xiaonuo
+## Xiaonuo——你的全能工具箱
 
 
 
@@ -6,36 +6,18 @@
   <img src="https://s2.loli.net/2021/12/19/s8Fu6W57IeYUrjy.gif">
 </p>
 
-欢迎来到xiaonuo的小站，您可以在这里下载一些系统镜像及其工具。当您使用本站或下载所发布的资源时，即自动视为您已阅读、已理解、认可并同意遵守全部[协议内容](http://xiaonuo2.github.io/#协议内容)。
 
-### ISO 文件下载
 
-- Windows 7 SP1 x86
 
-  <details><code>magnet:?xt=urn:btih:585DF592DE43A067C75CFE5A639B41FC3F24DA6F&dn=cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso&xl=2653276160</code><br>SHA1：B92119F5B732ECE1C0850EDA30134536E18CCCE7</details>
+###                                        欢迎来到xiaonuo的小站
 
-- Windows 7 SP1 x64
-
-  <details><code>magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso&xl=3420557312</code><br>SHA1：2CE0B2DB34D76ED3F697CE148CB7594432405E23</details>
-
-- Windows 10 21H1 x86
-
-  <details><code>magnet:?xt=urn:btih:83EDBAD0B3BBE6A2ABD451F3114D11FD2459A87A&dn=zh-cn_windows_10_business_editions_version_21h1_updated_sep_2021_x86_dvd_3a0314c9.iso&xl=4140279808</code><br>SHA1：4DBD9B92E185D3A07EB802FEE2FB42FBCE707A0A</details>
-
-- Windows 10 21H1 x64
-
-  <details><code>magnet:?xt=urn:btih:5C66F9BE1E46D0D4F7EC418D54C3A3FB03679D6D&dn=zh-cn_windows_10_business_editions_version_21h1_updated_sep_2021_x64_dvd_023d42d3.iso&xl=5709488128</code><br>SHA1：3A656F7209547468FBB5B794D78F216C7603E16C</details>
-
-- Windows 11 21H2 x64
-
-  <details><code>magnet:?xt=urn:btih:98BB0A1703D5E36ADCE9BAAA1E02D86C29C4DF95&dn=zh-cn_windows_11_business_editions_version_21h2_updated_october_2021_x64_dvd_a84e149f.iso&xl=5419143168</code><br>SHA1：50EFA8B2735979457001221B421B1A645F7E0A75</details>  
+您一旦接受本网站的使用条款、访问本网站或使用本网站，即表示同意下面规定的条款和条件。 进一步访问我们网站之前，请先阅读本[免责声明](https://xiaonuo2.github.io#协议内容/)。
 
 
 ### 实用工具
 
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
 - [一键圣诞帽工具1.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat1.0)  [一键圣诞帽工具2.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat2.0)
-- [图片定位远程查岗](https://xiaonuo2.github.io/exif-viewer)
 
 
 ### 游戏
@@ -44,10 +26,33 @@
 
 <span id="协议内容">免责声明：  
 
-1. 本站资源均来源于网络，所发布的资源仅作为学习、研究、交流目的之用途。使用、转载、转发请务必注明出处来源，禁止用于商业或收费盈利用途！  
-2. 对系统进行任何写操作行为均具有一定的风险，可能会造成系统或设备的损坏！资源发布前已完成测试，但由于设备种类繁多，操作方式不统一等仍无法保证绝对的兼容与安全性，因此作者不承担因阅读或使用本公众号所发布的文章教程或资源而造成的一切直接或间接的后果以及任何经济损失！请审慎考虑，如有异议，请勿参照文章教程操作或下载使用！  
-3. 最终解释权归本站站长所有，并且保留随时变更协议内容而无需另行通知的权利。本协议自发布之日起即时生效，请以本网站最新发布的协议公告内容为准。
+## 免责声明
+
+任何使用**[xiaonuo网站](https://www.xiaonuo2.github.io/)**平台的用户均应仔细阅读本声明。用户使用[xiaonuo网站](https://www.xiaonuo2.github.io/)平台的行为将被视为对本声明全部内容的认可。 
+
+1、除**[xiaonuo网站](https://www.xiaonuo2.github.io/)**注明之使用条款外，其他一切因使用[**xiaonuo网站**](https://www.xiaonuo2.github.io/)发布系统引致之任何意外、个人疏忽而产生的合约毁坏、诽谤、知识产权等侵权及其所造成的损失（包括但不限于因下载而感染电脑病毒），本平台概不负责，亦不承担任何法律责任。 
+
+2、任何通过**[xiaonuo网站](https://www.xiaonuo2.github.io/)**平台创建的项目及项目内容而链接或搜索得到之文章、资讯、产品及服务均系用户自行发布， 本平台对其合法性概不负责，亦不承担任何法律责任。 
+
+3、本平台所有由用户创建的项目及项目用户发布的内容并不反映任何本平台之意见，若发布者因发布内容而受到惩处，本平台对其行为概不负责，亦不承担任何连带责任。 
+
+4、任何单位或个人认为通过本平台的内容可能涉嫌侵犯其合法权益，应当及时向本平台进行电子邮件（反馈邮箱：chencao2008916@gmail.com）或者书面沟通反馈，如必要请提供身份证明、权属证明及相关详细侵权情况证明，本平台在收到上述法律文件，经评价属实后，将会尽快移除被控侵权内容。 
+
+
+
+## 软件使用
+
+根据《**计算机软件保护条例**》
+
+**第十七条** 为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬。
+
+
+
+[xiaonuo网站](https://www.xiaonuo2.github.io/)所发布的一切破解补丁、注册机和注册信息及软件的文章仅限用于学习和研究目的；
+
+不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。
 
 ### 友情链接
 
-[Webpage](http://webpage.iwsoft.cn/) [Wang's blog](https://iwsoft.cn) [老王二级域名分发](https://139.9.153.102) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com)
+[Webpage](http://webpage.iwsoft.cn/) [Wang's blog](https://iwsoft.cn) [老王二级域名分发](https://139.9.153.102) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com) [FancyPig's blog](https://www.iculture.cc/)
+
