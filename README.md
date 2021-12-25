@@ -13,11 +13,11 @@
 
 您一旦接受本网站的使用条款、访问本网站或使用本网站，即表示同意下面规定的条款和条件。 进一步访问我们网站之前，请先阅读本[免责声明](https://xiaonuo2.github.io#协议内容/)。
 
-
 ### 实用工具
 
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
 - [一键圣诞帽工具1.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat1.0)  [一键圣诞帽工具2.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat2.0)
+- [主要工具](https://xiaonuo2.github.io/tools)
 
 
 ### 游戏
