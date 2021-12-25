@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{1623:function(t,e,n){"use strict";n.r(e);n(49),n(362);var r={name:"idm"},c=n(2),component=Object(c.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("meta",{attrs:{"http-equiv":"refresh",content:"0; URL=https://www.iculture.cc/software/pig=1596"}})}),[],!1,null,null,null);e.default=component.exports}}]);
