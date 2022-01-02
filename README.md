@@ -17,6 +17,7 @@
 
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
 - [一键圣诞帽工具1.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat1.0)  [一键圣诞帽工具2.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat2.0)
+- [抖音/皮皮虾/火山/微视/微博/绿洲/最右/轻视频/instagram/哔哩哔哩/快手/全民小视频/皮皮搞笑/全民k歌/巴塞电影/陌陌/Before避风/开眼/Vue Vlog/小咖秀/西瓜视频在线去水印神器](https://xiaonuo2.github.io/watermark)
 
 
 ### 游戏
@@ -53,5 +54,5 @@
 
 ### 友情链接
 
-[Webpage](http://webpage.iwsoft.cn/) [Wang's blog](https://iwsoft.cn) [老王二级域名分发](https://139.9.153.102) [MSDN](https://msdn.itellyou.cn) [IT天空](https://www.itsk.com) [FancyPig's blog](https://www.iculture.cc/)
+[Webpage](http://webpage.iwsoft.cn/) [Wang's blog](https://iwsoft.cn) [FancyPig's blog](https://www.iculture.cc/)
 
