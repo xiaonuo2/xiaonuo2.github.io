@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[80],{1662:function(t,e,n){"use strict";n.r(e);n(49),n(362);var r={name:"wxrun"},c=n(2),component=Object(c.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("meta",{attrs:{"http-equiv":"refresh",content:"0; URL=https://www.iculture.cc/demo/run2/"}})}),[],!1,null,null,null);e.default=component.exports}}]);
