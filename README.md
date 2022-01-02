@@ -17,12 +17,11 @@
 
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
 - [一键圣诞帽工具1.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat1.0)  [一键圣诞帽工具2.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat2.0)
-- [主要工具](https://xiaonuo2.github.io/tools)
 
 
 ### 游戏
 
-- [0hh1](game/0)   [2048](game/1)  [黑白棋](game/2)  [见缝插针](game/3)  [魔方](game/4)  [切积木](game/5)  [旋转六边形](game/6)  [一个都不能死](game/7)  [五子棋 ](game/8) [人生重开模拟器](https://liferestart.syaro.io/view/)
+- [召唤神龙](https://xiaonuo2.github.io/shenlong) [0hh1](game/0)   [2048](game/1)  [黑白棋](game/2)  [见缝插针](game/3)  [魔方](game/4)  [切积木](game/5)  [旋转六边形](game/6)  [一个都不能死](game/7)  [五子棋 ](game/8) [人生重开模拟器](https://liferestart.syaro.io/view/)
 
 <span id="协议内容">免责声明：  
 
