@@ -26,11 +26,9 @@
 
 ### 游戏
 
-- [召唤神龙](https://xiaonuo2.github.io/shenlong) [0hh1](game/0)   [2048](game/1)  [黑白棋](game/2)  [见缝插针](game/3)  [魔方](game/4)  [切积木](game/5)  [旋转六边形](game/6)  [一个都不能死](game/7)  [五子棋 ](game/8) [人生重开模拟器](https://liferestart.syaro.io/view/)
+- [召唤神龙](game/11) [0hh1](game/0)   [2048 1.0](game/1) [2048 2.0](game/14) [黑白棋](game/2)  [见缝插针](game/3)  [魔方](game/4)  [切积木](game/5)  [旋转六边形](game/6)  [一个都不能死](game/7)  [五子棋 ](game/8) [人生重开模拟器](https://liferestart.syaro.io/view/) [小霸王在线游戏机(魂斗罗、超级玛丽、坦克、双截龙)](game/9)  [俄罗斯方块](game/10) [中国象棋](game/12) [打字测速](game/13)
 
-<span id="协议内容">免责声明：  
-
-## 免责声明
+# <span id="协议内容">免责声明：  
 
 任何使用**[xiaonuo网站](https://www.xiaonuo2.github.io/)**平台的用户均应仔细阅读本声明。用户使用[xiaonuo网站](https://www.xiaonuo2.github.io/)平台的行为将被视为对本声明全部内容的认可。 
 
