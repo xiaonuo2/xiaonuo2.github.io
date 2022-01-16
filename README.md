@@ -30,15 +30,17 @@
 
 ### 网站特色
 
-+ [虐中小学生の单身狗视频（单身误入）](video/dog.mp4)
++ 虐中小学生の单身狗（单身勿看）
+
++ <iframe src="https://xiaonuo2.github.io/video/dog.mp4" frameborder="0" allowfullscreen="" width="600" height="400"></iframe>
 
 # <span id="协议内容">免责声明：  
 
-任何使用**[xiaonuo网站](https://www.xiaonuo2.github.io/)**平台的用户均应仔细阅读本声明。用户使用[xiaonuo网站](https://www.xiaonuo2.github.io/)平台的行为将被视为对本声明全部内容的认可。 
+任何使用**[xiaonuo网站](https://xiaonuo2.github.io/)**平台的用户均应仔细阅读本声明。用户使用[xiaonuo网站](https://xiaonuo2.github.io/)平台的行为将被视为对本声明全部内容的认可。 
 
-1、除**[xiaonuo网站](https://www.xiaonuo2.github.io/)**注明之使用条款外，其他一切因使用[**xiaonuo网站**](https://www.xiaonuo2.github.io/)发布系统引致之任何意外、个人疏忽而产生的合约毁坏、诽谤、知识产权等侵权及其所造成的损失（包括但不限于因下载而感染电脑病毒），本平台概不负责，亦不承担任何法律责任。 
+1、除**[xiaonuo网站](https://xiaonuo2.github.io/)**注明之使用条款外，其他一切因使用**[xiaonuo网站](https://xiaonuo2.github.io/)**发布系统引致之任何意外、个人疏忽而产生的合约毁坏、诽谤、知识产权等侵权及其所造成的损失（包括但不限于因下载而感染电脑病毒），本平台概不负责，亦不承担任何法律责任。 
 
-2、任何通过**[xiaonuo网站](https://www.xiaonuo2.github.io/)**平台创建的项目及项目内容而链接或搜索得到之文章、资讯、产品及服务均系用户自行发布， 本平台对其合法性概不负责，亦不承担任何法律责任。 
+2、任何通过**[xiaonuo网站](https://xiaonuo2.github.io/)**平台创建的项目及项目内容而链接或搜索得到之文章、资讯、产品及服务均系用户自行发布， 本平台对其合法性概不负责，亦不承担任何法律责任。 
 
 3、本平台所有由用户创建的项目及项目用户发布的内容并不反映任何本平台之意见，若发布者因发布内容而受到惩处，本平台对其行为概不负责，亦不承担任何连带责任。 
 
@@ -54,7 +56,7 @@
 
 
 
-[xiaonuo网站](https://www.xiaonuo2.github.io/)所发布的一切破解补丁、注册机和注册信息及软件的文章仅限用于学习和研究目的；
+[xiaonuo网站](https://xiaonuo2.github.io/)所发布的一切破解补丁、注册机和注册信息及软件的文章仅限用于学习和研究目的；
 
 不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。
 
