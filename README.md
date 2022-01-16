@@ -30,9 +30,7 @@
 
 ### 网站特色
 
-+ 虐中小学生の单身狗（单身勿看）
-
-+ <iframe src="https://xiaonuo2.github.io/video/dog.mp4" frameborder="0" allowfullscreen="" width="600" height="400"></iframe>
++ [虐中小学生の单身狗（单身勿看）](https://xiaonuo2.github.io/video/dog.mp4)
 
 # <span id="协议内容">免责声明：  
 
