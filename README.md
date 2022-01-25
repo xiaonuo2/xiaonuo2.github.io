@@ -32,6 +32,8 @@
 
 + [虐中小学生の单身狗（单身勿看）](https://xiaonuo2.github.io/video/dog.mp4)
 
+![dog](D:\文档\GitHub\xiaonuo2.github.io\video\dog.gif)
+
 # <span id="协议内容">免责声明：  
 
 任何使用**[xiaonuo网站](https://xiaonuo2.github.io/)**平台的用户均应仔细阅读本声明。用户使用[xiaonuo网站](https://xiaonuo2.github.io/)平台的行为将被视为对本声明全部内容的认可。 
