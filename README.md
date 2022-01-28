@@ -30,7 +30,7 @@
 - [乔碧萝你别跑/照妖镜视频通话1.0](https://www.privacys.club/camera/sc.php) [乔碧萝你别跑/照妖镜视频通话2.0](https://www.privacys.club/camera2/sc.php)
 - [猪猪的蜜语星球 - 蜜语翻译器,文字加密通话,一键转换,蜜语密码，生成悄悄话发送给好友](https://www.iculture.cc/demo/secrets/)
 - [年会上用的抽奖系统 3D立体球体抽奖 炫酷到爆炸](https://lottery.iculture.cc/)
-- [**2022新年倒计时**](https://xiaonuo2.github.io/2022xinnian)
+- [**2022新年倒计时**](https://xiaonuo2.github.io/2022xinnian/)
 
 
 ### 游戏
