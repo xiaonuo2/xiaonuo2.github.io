@@ -12,7 +12,7 @@
 
 
 
-
+<p>
 <div>
 <h1><font color="ff0000"></font><div class="text" style=" text-align:center;"><font color="ff0000"><img class="wp-smiley" src="https://cdn.jsdelivr.net/gh/xiaonuo2/blog-img/denglong.gif" alt="网站春节倒计时代码分享" title="灯笼" alt="灯笼">春节倒计时<img class="wp-smiley" src="https://cdn.jsdelivr.net/gh/xiaonuo2/blog-img/denglong.gif" alt="网站春节倒计时代码分享" title="灯笼" alt="灯笼"></font></div></h1>
 <h3 id="title-1"><div class="text" style=" text-align:center;">2022年春节时间：2022年2月1日 星期二 农历正月初一<img class="wp-smiley" src="https://cdn.jsdelivr.net/gh/xiaonuo2/blog-img/meigui.png" alt="网站春节倒计时代码分享" title="玫瑰" alt="玫瑰"></div></h3>
@@ -38,7 +38,7 @@ document.getElementById("t_s").innerHTML = s + " 秒";
 }
 setInterval(getRTime,1000);
 </script>
-
+</p>
 
 
 
