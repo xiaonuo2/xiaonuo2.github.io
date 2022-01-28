@@ -5,17 +5,20 @@
 <p align="center">
   <img src="https://s2.loli.net/2021/12/19/s8Fu6W57IeYUrjy.gif">
 </p>
-
-
-
-
 ###                                        欢迎来到xiaonuo的小站
 
 您一旦接受本网站的使用条款、访问本网站或使用本网站，即表示同意下面规定的条款和条件。 进一步访问我们网站之前，请先阅读本[免责声明](#协议内容)。
 
+
+
+# **<u>[虎年程序员的浪漫 带你去看烟花！(点击进入)](https://xiaonuo2.github.io/fireworks)</u>**
+
+
+
 ### 实用工具
 
 - [HEU KMS Activator](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1980416095488475140)
+- [虎年头像在线制作工具](https://xiaonuo2.github.io/tiger_hat)
 - [一键圣诞帽工具1.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat1.0)  [一键圣诞帽工具2.0](https://xiaonuo2.github.io/Christmas-hat/Christmas-hat2.0)
 - [抖音/皮皮虾/火山/微视/微博/绿洲/最右/轻视频/instagram/哔哩哔哩/快手/全民小视频/皮皮搞笑/全民k歌/巴塞电影/陌陌/Before避风/开眼/Vue Vlog/小咖秀/西瓜视频在线去水印神器](https://xiaonuo2.github.io/watermark)
 - [王者荣耀战力查询助手](https://xiaonuo2.github.io/pvpqq)
@@ -31,8 +34,6 @@
 ### 网站特色
 
 + [虐中小学生の单身狗（单身勿看）](https://xiaonuo2.github.io/video/dog.mp4)
-
-![dog](D:\文档\GitHub\xiaonuo2.github.io\video\dog.gif)
 
 # <span id="协议内容">免责声明：  
 
