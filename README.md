@@ -25,6 +25,7 @@
 - [2021国庆头像在线生成工具 @微信官方，请给我一面国旗](https://xiaonuo2.github.io/avatar_auto)
 - [微信运动、QQ运动、支付宝运动修改步数 稳定版](https://xiaonuo2.github.io/xiaomi/1)
 - [乔碧萝你别跑/照妖镜视频通话1.0](https://www.privacys.club/camera/sc.php) [乔碧萝你别跑/照妖镜视频通话2.0](https://www.privacys.club/camera2/sc.php)
+- [猪猪的蜜语星球 - 蜜语翻译器,文字加密通话,一键转换,蜜语密码，生成悄悄话发送给好友](https://www.iculture.cc/srccode/pig=8785)
 
 
 ### 游戏
