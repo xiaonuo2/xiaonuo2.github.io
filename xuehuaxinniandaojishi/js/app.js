@@ -18,7 +18,7 @@ $(document).ready(function(){
     $(".date").before(times);
 
     //春节倒计时
-    var starttime = new Date("2022/2/1");
+    var starttime = new Date("2021/2/12");
     setInterval(function () {
         var nowtime = new Date();
         var time = starttime - nowtime;
@@ -61,7 +61,7 @@ $(document).ready(function(){
         if(H < 10){H = "0" + H;};
         if(MIN < 10){MIN = "0" + MIN;};
         if(S < 10){S = "0" + S;};  
-    
+
         switch (U){
             case 0:U="星期日";
           break;
@@ -78,23 +78,23 @@ $(document).ready(function(){
             case 6:U="星期六";
           break;
        };
-    
+
       //星期赋值
       var week = U;
       $(".week").html(week);
-    
+
       //年份赋值
       var year = Y;
       $(".year").html(year);
-    
+
       //日期赋值
       var date = "<span>" + M + "</span>" + "月" + "<span>" + D + "</span>" + "日";
       $(".date").html(date);
-    
+
       //时间赋值
       var times = "<span>" + H + "</span>" + ":" + "" + "<span>" + MIN + "</span>" + ":" + "" + "<span>" + S + "</span>" + ":" + "" + "<span>" + MS + "</span>";
       $(".times").html(times);
-    
+
     }
     // Todayss();
     setInterval(Todayss, 10);
@@ -105,7 +105,7 @@ $(document).ready(function(){
         $(".key").addClass("keys");
         $(".key").removeClass("remove");
     });
-    
+
     function Closs(){
       $(".key").removeClass("keys");
       $(".key").addClass("remove");
@@ -113,7 +113,7 @@ $(document).ready(function(){
           $(".key").removeClass("remove");
       },1000);
     };
-    
+
     $(".iocnBox").click(function(){
       Closs()
     });
@@ -125,9 +125,9 @@ $(document).ready(function(){
     });
 
 
-    var mess = "<span>没想到新年马上就要到了</span><span class='B-span2'>祝你我新年快乐！</span><span>你好2022新的一年。</span>";
+    var mess = "<span>没想到新年马上就要到了</span><span class='B-span2'>祝你我新年快乐！</span><span>你好2021新的一年。</span>";
     $(".Barrage").append(mess);
-    
+
     $(".buts").click(function(){
         var mes = $(".van-field__control").val();
         if(!mes){
@@ -159,14 +159,14 @@ $(document).ready(function(){
           var spans = "<span" + " style='top:" + rand + "px;" + colorss + dasdass + dasdass2 + "'>" + mes + "</span>";
           
           $(".Barrage").append(spans);
-    
+
           var Tips = "<div class='Tips'>发送成功</div>";
           $("body").append(Tips);
           setTimeout(function(){
             $(".Tips").remove();
           },1500)
         }
-    
+
     });
     $(".empty").click(function(){
       $(".van-field__control").val("");
@@ -181,10 +181,9 @@ $(document).ready(function(){
       }
     })
 
+    
 
-​    
-
-
+    
     //微信朋友圈分享
     var this_url=window.location.href;
         $.get("https://testzhst.shuhaisc.com/saasowp/weChat/signature",
@@ -209,24 +208,24 @@ $(document).ready(function(){
         wx.ready(function () {   //需在用户可能点击分享按钮前就先调用
             
             wx.updateAppMessageShareData({ 
-                title: 'Hello, 2022 happy new year', // 分享标题
-                desc: '你好, 2022, 新年快乐！ 除夕倒计时, 一大波弹幕正在来袭！！', // 分享描述
+                title: 'Hello, 2021 happy new year', // 分享标题
+                desc: '你好, 2021, 新年快乐！ 除夕倒计时, 一大波弹幕正在来袭！！', // 分享描述
                 imgUrl: 'https://www.shuhaisc.com/Clock/images/time.jpg', // 分享图标
                 success: function () {
                     // alert("分享成功!");
                 }
             });
-    
+
             wx.updateTimelineShareData({ 
-                title: 'Hello, 2022 happy new year', // 分享标题
+                title: 'Hello, 2021 happy new year', // 分享标题
                 imgUrl: 'https://www.shuhaisc.com/Clock/images/time.jpg', // 分享图标
                 success: function () {
                     // alert("分享成功!");
                 }
             });
-    
+
             // 移动端强制自动播放
-    
+
             $("#video")[0].play();
             }); 
         }
@@ -238,4 +237,5 @@ $(document).ready(function(){
 
 
 });
+
 
