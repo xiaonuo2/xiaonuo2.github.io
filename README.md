@@ -34,6 +34,7 @@
 - [2022雪花新年倒计时](https://xiaonuo2.github.io/xuehuaxinniandaojishi/)
 - [2022彩色倒计时](https://xiaonuo2.github.io/xinnian/xinnian1)
 - [2022爱心倒计时](https://xiaonuo2.github.io/xinnian/xinnian2/)
+- [2022普通倒计时](https://xiaonuo2.github.io/xinnian/xinnian3/)
 
 
 ### 游戏
