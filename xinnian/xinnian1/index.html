@@ -1,0 +1,56 @@
+<style>
+/* 倒计时开始 */
+.gn_box {
+padding: 10px 14px;
+margin-bottom: 20px;
+text-align: center;
+background-color: #fff;
+}
+#t_d{
+color: #982585;
+font-size: 18px;
+}
+#t_h{
+color: #8f79c1;
+font-size: 18px;
+}
+#t_m{
+color: #65b4b5;
+font-size: 18px;
+}
+#t_s{
+color: #83caa3;
+font-size: 18px;
+}
+</style>
+<!--倒计时开始-->
+<div class="gn_box">
+<h1><font color=#E80017>2</font><font color=#D1002E>0</font><font color=#BA0045>2</font><font color=#A3005C>2</font><font
+color=#8C0073>年</font><font color=#75008A>-</font><font color=#5E00A1>新</font><font
+color=#4700B8>年</font><font color=#3000CF>倒</font><font color=#1900E6>计</font><font color=#0200FD>时</font>
+</h1>
+<center>
+<div id="CountMsg" class="HotDate">
+<span id="t_d">626 天</span>
+<span id="t_h">6 时</span>
+<span id="t_m">26 分</span>
+<span id="t_s">26 秒</span>
+</div>
+</center>
+<script type="text/javascript"> function getRTime() {
+var EndTime = new Date('2022/02/1 00:00:00');
+var NowTime = new Date();
+var t = EndTime.getTime() - NowTime.getTime();
+var d = Math.floor(t / 1000 / 60 / 60 / 24);
+var h = Math.floor(t / 1000 / 60 / 60 % 24);
+var m = Math.floor(t / 1000 / 60 % 60);
+var s = Math.floor(t / 1000 % 60);
+document.getElementById("t_d").innerHTML = d + " 天";
+document.getElementById("t_h").innerHTML = h + " 时";
+document.getElementById("t_m").innerHTML = m + " 分";
+document.getElementById("t_s").innerHTML = s + " 秒";
+}
+setInterval(getRTime, 1000);
+</script>
+</div>
+<!--倒计时结束-->

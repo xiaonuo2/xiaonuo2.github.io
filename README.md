@@ -32,6 +32,7 @@
 - [年会上用的抽奖系统 3D立体球体抽奖 炫酷到爆炸](https://lottery.iculture.cc/)
 - [2022新年倒计时](https://xiaonuo2.github.io/2022xinnian/)
 - [2022雪花新年倒计时](https://xiaonuo2.github.io/xuehuaxinniandaojishi/)
+- [2022彩色倒计时](https://xiaonuo2.github.io/xinnian/xinnian1)
 
 
 ### 游戏
